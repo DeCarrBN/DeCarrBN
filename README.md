@@ -1,7 +1,7 @@
-### Hi there 👋
+![Hey there, I'm DeCarr. I'm a FiveM developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 <!--
-**DeCarrBN/DeCarrBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CyrisXD/CyrisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
