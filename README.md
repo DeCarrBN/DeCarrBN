@@ -7,6 +7,6 @@ Some things about me :<br/>
 :two: Full stack developer and IT professional with over 1 year of experience.<br/>
 :three: Proficient with Lua, JavaScript, CSS, C, HTML.<br/> 
 :four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
-Title%5D">here</a><br/> 
+<br/> 
 :five: Fun fact : Have been developing softwares for most part of my life
 
