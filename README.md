@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 Some things about me :<br/>
 :one: Programming language developer<br/>
 :two: Full stack developer and IT professional with over 1 year of experience.<br/>
-:three: Proficient with PHP, JavaScript, CSS, C and Python.<br/> 
+:three: Proficient with Lua, JavaScript, CSS, C, HTML.<br/> 
 :four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
 :five: I’m currently working on the <a href="https://github.com/One-Language">ONE Programming Language</a><br/> 
 6️⃣: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
