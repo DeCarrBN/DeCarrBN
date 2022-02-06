@@ -1,7 +1,5 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
 <h1 align="center">Hi 👋, I'm DeCarr</h1>
-
-Wanna nominate me as a <a href="https://stars.github.com/">GitHub Star</a> ? <a href="https://stars.github.com/nominate/">Here, you go !!</a> (My username is: BaseMax)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <b>Welcome !! </b><br/>
@@ -10,6 +8,6 @@ Some things about me :<br/>
 :two: Full stack developer and IT professional with over 1 year of experience.<br/>
 :three: Proficient with Lua, JavaScript, CSS, C, HTML.<br/> 
 :four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
-:five: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
-6️⃣: Fun fact : Have been developing softwares for most part of my life
+Title%5D">here</a><br/> 
+:five: Fun fact : Have been developing softwares for most part of my life
 
